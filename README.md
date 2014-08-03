@@ -7,3 +7,8 @@ awesome-python
 * [A Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 
 * [reddit: Must-watch Python videos](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos)
+
+Regular stuffs
+====================
+
+* [Python 2 Tutorial](https://docs.python.org/2/tutorial/)
