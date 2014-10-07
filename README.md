@@ -13,6 +13,8 @@ awesome-python
 
 * [reddit: Must-watch Python videos](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos)
 
+* [Create Beautiful Command Line Interfaces with Python](https://www.youtube.com/watch?v=pXhcPJK5cMc)
+
 Getting Started
 ===============
 
