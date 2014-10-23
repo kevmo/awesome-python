@@ -3,6 +3,8 @@ Don't forget to [RTFM](https://docs.python.org/2/index.html).
 awesome-python
 ==============
 
+* [Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
+
 * [Invent With Python](http://inventwithpython.com/) - free books that are highly rated on Amazon.
 
 * [Python Practice Book](http://anandology.com/python-practice-book/)
