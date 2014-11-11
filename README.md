@@ -17,6 +17,8 @@ awesome-python
 
 * [Create Beautiful Command Line Interfaces with Python](https://www.youtube.com/watch?v=pXhcPJK5cMc)
 
+* [It's all about the attributes.](http://blog.lerner.co.il/python-attributes/)
+
 Getting Started
 ===============
 
