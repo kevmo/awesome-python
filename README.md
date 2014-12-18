@@ -25,3 +25,5 @@ Getting Started
 * [Python 2 Tutorial](https://docs.python.org/2/tutorial/)
 
 * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+* [Python for Beginners](http://www.pythonforbeginners.com/)
