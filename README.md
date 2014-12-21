@@ -2,6 +2,7 @@ Don't forget to [RTFM](https://docs.python.org/2/index.html).
 
 awesome-python
 ==============
+* [From Apprentice to Guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 
 * [Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
