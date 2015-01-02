@@ -28,3 +28,10 @@ Getting Started
 * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
 * [Python for Beginners](http://www.pythonforbeginners.com/)
+
+
+
+Routine PITAs
+===============
+
+[Converting unicode to ascii)[https://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols/1207479#1207479]
