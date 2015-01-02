@@ -34,4 +34,4 @@ Getting Started
 Routine PITAs
 ===============
 
-[Converting unicode to ascii)[https://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols/1207479#1207479]
+[Converting unicode to ascii](https://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols/1207479#1207479)
