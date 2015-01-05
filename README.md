@@ -20,6 +20,8 @@ awesome-python
 
 * [It's all about the attributes.](http://blog.lerner.co.il/python-attributes/)
 
+* [Pycoders Weekly 2014 Roundup](http://us4.campaign-archive1.com/?u=9735795484d2e4c204da82a29&id=55b91a6e1f)
+
 Getting Started
 ===============
 
