@@ -31,7 +31,10 @@ Getting Started
 
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 
-
+Design Patterns
+===============
+* [Mixins](http://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful)
+* [Decorators](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 
 Routine PITAs
 ===============
