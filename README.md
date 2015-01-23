@@ -40,5 +40,7 @@ Routine PITAs
 ===============
 
 * [Tips and Traps](https://www.airpair.com/python/posts/python-tips-and-traps)
+* [Quick overview of the WSGI protocol -- Shortly Tutorial](http://werkzeug.pocoo.org/docs/0.9/tutorial/)
+* [Converting unicode to ascii](https://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols/1207479#1207479)
 
-[Converting unicode to ascii](https://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols/1207479#1207479)
+
