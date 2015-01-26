@@ -31,6 +31,10 @@ Getting Started
 
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 
+Libraries
+==============
+* [11 Python Libraries You Might Not Know](http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html)
+
 Design Patterns
 ===============
 * [Mixins](http://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful)
