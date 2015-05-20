@@ -37,6 +37,8 @@ Getting Started
 Libraries
 ==============
 * [11 Python Libraries You Might Not Know](http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html)
+* 
+* [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
 
 Design Patterns
 ===============
