@@ -4,7 +4,9 @@ awesome-python
 ==============
 
 * [Debugging](http://howchoo.com/g/zgi2y2iwyze/debugging-your-python-code)
-* 
+
+* [Design Patterns in Python](http://kennison.name/files/zopestore/uploads/python/DesignPatternsInPython_ver0.1.pdf)
+
 * [From Apprentice to Guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 
 * [Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
